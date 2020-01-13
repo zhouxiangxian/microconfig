@@ -5,10 +5,10 @@ spring:
 ---
 spring:
   profiles: dev
-  application:
-    name: microcloud-test-dev
+  application: 
+    name: microconfig-test-dev
 ---
 spring:
   profiles: default
-  application:
+  application: 
     name: microconfig-test-default
